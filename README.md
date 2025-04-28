@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Mc Lester Papa and I'm a UI/UX Designer and a Frontend Developer, from Philippines</h2>
+<h2 align="left">Hi 👋! My name is Mc Lester Papa and I'm a UI/UX Designer and a Frontend Developer, from Philippines</h2>
 
 ###
 
@@ -64,10 +64,5 @@
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
 
 ###
